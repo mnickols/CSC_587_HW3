@@ -1,0 +1,20 @@
+---
+title: "Homework 3"
+author: "Matthew Nickols"
+date: "2024-03-17"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+## Problem 1
+```{python}
+
+
+
+```
+
